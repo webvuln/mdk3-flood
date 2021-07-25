@@ -11,7 +11,7 @@ print("|             |")
 print("|  3 | update |")
 print("---------------")
 
-T = input("1 or 2: ")
+T = input("choose your option: ")
 
 if T == "1":
     CARD = input("your wifi card that is in moniter mode: ")
