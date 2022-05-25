@@ -9,3 +9,5 @@ mdk3
 # How to run
 
 run the following command
+
+python3 flood.py
